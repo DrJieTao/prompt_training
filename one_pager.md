@@ -31,6 +31,14 @@ While our methodology is universal, the application is not. The true power of th
 The entire hands-on experience will be tailored to this specific workflow. Your team will not learn abstract concepts; they will use our proprietary patterns to build a solution for a challenge they face every day. **They will leave the workshop not just with new skills, but with their own well-codified AI Charter—a powerful System Prompt ready for immediate daily use to improve their efficiency and the quality of their work.**
 
 ---
+## **Logistics at a Glance**
+
+*   **Duration:** A focused 3-hour learning experience, delivered as two 1.5-hour sessions to maximize engagement and retention.
+*   **Format:** Live, interactive virtual session led by an expert facilitator, designed for teams.
+*   **Prerequisites:** No prior AI or coding experience is required. Participants only need access to a web browser and a standard generative AI platform.
+*   **Materials:** All participants receive a comprehensive `Prompt_Playbook.md` containing all templates and reference guides for use during and after the workshop.
+
+---
 ## **Continue Your Journey: AI for Business Process Automation (AI-BPA)**
 
 Mastering dialogue with AI is the critical first step. For teams looking to take the next leap, we offer our **AI for Business Process Automation (AI-BPA)** workshop. This advanced session focuses on identifying and redesigning your team's core workflows to strategically infuse Generative AI at key leverage points, moving from individual productivity to systemic organizational efficiency. Ask your facilitator for more details.
