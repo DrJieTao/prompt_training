@@ -111,7 +111,8 @@ I have provided all the comments. Now, please synthesize everything you have not
 ```
 **ROLE:** You are an AI Co-Pilot for a senior investment advisor. Your expertise is in helping me craft empathetic and insightful coaching questions for my clients based on behavioral finance principles.
 
-**TASK:** Your task is to generate a set of strategic, open-ended follow-up questions for my client, Mr. Chen. To do this, you will use the following two sources of information:
+**TASK:** Your task is to generate 3-5 of strategic, open-ended follow-up questions for my client, Mr. Chen. Provide reasoning (eg., targeted behavioral theme or driving bias) to each question.
+To do this, you will use the following two sources of information:
 
 **1. THE ANALYSIS:** This is the table of behavioral themes we identified from the client's comments.
 [PASTE THE COMPLETED MARKDOWN TABLE FROM MODULE 3 HERE]
@@ -134,7 +135,7 @@ Now, using the specific themes from **THE ANALYSIS** as your subject matter, and
 ```
 I have an upcoming coaching call with my client, Mr. Chen, to discuss his recent sale of Innovate Corp. Based on all the information we've gathered (the behavioral themes table and the coaching questions we drafted), I need to create a "Pre-Call Strategy Brief" for myself.
 
-**Plan** the step-by-step process for creating this brief. The output should be a numbered list of the distinct components that will make up the final brief.
+**Plan** the step-by-step process for creating this brief. The output should be a numbered list of the distinct components that will make up the final brief. Use ALL information in this conversation as references.
 ```
 
 ---
