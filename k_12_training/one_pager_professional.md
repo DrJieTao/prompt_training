@@ -2,6 +2,8 @@
 
 **The hands-on workshop that teaches K-12 educators how to take control of AI, automate their tedious tasks, and get back to creative, high-impact teaching.**
 
+**Brought to you by Fairfield Dolan AI & Tech Institute, in collaboration with Fairfield University School of Education and Human Development.**
+
 ---
 
 ### **Go Beyond "Prompt and Pray"**
