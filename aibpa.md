@@ -42,4 +42,4 @@ You will not learn abstract concepts; you will solve a challenge you face every 
 
 Automating your first process is the critical first step. This deep-dive workshop provides the skills and confidence to begin your AI journey in earnest.
 
-**To see the full agenda and save your spot, contact us at [Your Email].**
+**To see the full agenda and save your spot, please email [Dr. Jie](mailto:jietao.usst@gmail.com).**
