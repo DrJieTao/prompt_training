@@ -1,4 +1,4 @@
-# **A Strategic Workshop for Fund Managers & Allocators**
+# **The AI Alpha Playbook: A Strategic Workshop for Fund Managers & Allocators**
 ## **Stay Ahead of the Curve: Leverage Generative AI for Superior Insight & Efficiency**
 
 ### **Opening Statement: From Information Overload to Actionable Alpha**
