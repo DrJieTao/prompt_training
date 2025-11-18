@@ -1,7 +1,7 @@
 # AI Essentials: The Administrative Co-Pilot
 ### *Operational Efficiency & Data Safety for the Modern Library*
 
-**Duration:** 3 Hours | **Format:** In-Person, Hands-on | **Level:** Beginner | **Fee:** $5,000 (**50%** introductory discount applied. Plus the workshop will be recorded for re-watching)
+**Duration:** 3 Hours | **Format:** In-Person, Hands-on | **Level:** Beginner | **Fee:** $5,000 (**50%** introductory discount applied. Plus the workshop will be recorded for re-watching) | Up to 20 participants |
 
 ### **The Executive Summary**
 Your staff are likely already using AI. The question is: **Are they using it safely, and is it actually saving them time?**
