@@ -1,0 +1,40 @@
+--------------------------------------------------
+-- PROMPT 1: DISCOVERY & THEMATIC ANALYSIS --
+--------------------------------------------------
+
+Act as a senior IT analyst. Profile the attached spreadsheet named 'IT_support_tickets.csv'. Your task is to:
+1.  Identify all column headers and infer the data type for each (e.g., Text, Date, Number).
+2.  Analyze the 'Description' column to identify and list the top 3 most common themes or issues mentioned by users.
+3.  Present this entire analysis as a concise, well-formatted summary.
+
+
+--------------------------------------------------
+-- PROMPT 2: R.A.F.T. EXTRACTION --
+--------------------------------------------------
+
+Excellent. Now, for your next task:
+- Your **Role** is an IT Service Desk Manager.
+- Your **Audience** is me, the Director of IT, who needs a clear, no-fluff view of critical issues.
+- I need the output in a clean table **Format**.
+- Your **Topic** is to extract all tickets from the dataset that meet ALL of the following criteria:
+    - Priority is 'High' OR 'Critical'
+    - Status is 'Open'
+    - Category is 'Network'
+
+
+--------------------------------------------------
+-- PROMPT 3: REFINEMENT & CALCULATION --
+--------------------------------------------------
+
+That's the exact data I needed. Now, please add a new column to that table called 'Days_Open' and calculate how many days each ticket has been open based on today's date, which is November 18, 2025.
+
+
+--------------------------------------------------
+-- PROMPT 4: TRANSFORMATION & COMMUNICATION --
+--------------------------------------------------
+
+This is very insightful, thank you. Use this final table to draft a non-technical email memo to the CIO. The memo should:
+1.  Summarize that we have a significant number of critical, open network-related tickets.
+2.  Mention the average number of days these tickets have been open.
+3.  Recommend that we form a priority task force to investigate the root cause.
+4.  The tone should be professional, data-driven, and solution-oriented.
