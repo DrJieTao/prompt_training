@@ -3,6 +3,9 @@
 
 **Duration:** 3 Hours | **Format:** In-Person, Hands-on | **Level:** Beginner | **Fee:** $5,000 (**50%** introductory discount applied. Plus the workshop will be recorded for re-watching) | Up to 20 participants |
 
+### **The Value Proposition**
+> *"We transform AI from a 'cheating tool' into a 'capacity tool,' allowing your team to stop fighting with formatting and start focusing on community impact."*
+
 ### **The Executive Summary**
 Your staff are likely already using AI. The question is: **Are they using it safely, and is it actually saving them time?**
 
@@ -50,5 +53,3 @@ This training is designed for **immediate implementation** with zero additional 
 *   **Hardware:** Participants only need a standard laptop with internet access.
 *   **Software:** We train on the **free tiers** of standard tools (ChatGPT, Claude, Gemini), allowing your library to reap the benefits immediately without waiting for enterprise software approval.
 
-### **The Value Proposition**
-> *"We transform AI from a 'cheating tool' into a 'capacity tool,' allowing your team to stop fighting with formatting and start focusing on community impact."*
