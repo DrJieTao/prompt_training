@@ -24,7 +24,8 @@ Unlike standard corporate training, this curriculum is **tailored to the daily r
 2.  **The CLEAR Framework:** We replace the frustration of **"arguing with the robot"** with a management framework. Staff learn to direct AI like a junior employee—providing context, constraints, and clear criteria.
 3.  **Operational Triage:** We identify the high-volume, low-value tasks (e.g., summarizing 3-page policies into 5 bullet points) that drain staff energy and automate them immediately.
 
-### **Workshop Agenda ** (can be be updated after the pre-workshop meeting if desired)
+### **Workshop Agenda ** 
+> *can be be updated after the pre-workshop meeting if desired*
 *   **Part 1: The Compliance Layer (45 mins)**
     *   *The "Black Box" Reality:* Why we never paste patron barcodes or names into public tools.
     *   **Protocol Lab:** *The Anonymizer* — Staff practice a rigorous "Redaction Checklist" on mock patron complaints, ensuring zero data leakage.
