@@ -1,7 +1,7 @@
 # AI Business Process Automation: Workflow Elevation
 ### *Building the "Elevator" for Your Library's Routine Tasks*
 
-**Duration:** 4-5 Hours | **Format:** In-Person, Hands-on | **Level:** Intermediate
+**Duration:** 4-5 Hours | **Format:** In-Person, Hands-on | **Level:** Intermediate | Fee: $9,500 (Tier 1 + 2 **bundle discount** available upon request. Plus the workshop will be recorded for re-watching) | Up to 20 participants |
 
 ### **The Executive Summary**
 Your staff are capable of high-level strategic work, but they are often stuck taking the stairs—spending hours on manual data entry, formatting, and routine collation.
@@ -9,6 +9,7 @@ Your staff are capable of high-level strategic work, but they are often stuck ta
 This workshop is designed to build an **elevator**. We invite your team to share their specific administrative bottlenecks *before* the workshop. We then teach them how to insert AI as an "engine" to handle the heavy lifting—sorting data, drafting reports, and organizing inputs—so that your staff can step in strictly for the final, high-value **Expert Review**.
 
 ### **The "Human-in-the-Loop" Methodology**
+> *AI is not here to replace your staff; it's here to empower them.*
 Automation in a library context must be responsible. We emphasize a **Human-in-the-Loop (HITL)** architecture for every workflow:
 1.  **The Input:** Staff collect the raw materials (surveys, stats, notes).
 2.  **The AI Engine:** The AI performs the draft work (categorization, summarization, formatting).
