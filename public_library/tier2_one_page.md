@@ -3,6 +3,9 @@
 
 **Duration:** 4-5 Hours | **Format:** In-Person, Hands-on | **Level:** Intermediate | Fee: $9,500 (Tier 1 + 2 **bundle discount** available upon request. Plus the workshop will be recorded for re-watching) | Up to 20 participants |
 
+### **The Value Proposition**
+> *"We build the machine that handles the drudgery, so your librarians can remain the 'Human in the Loop'—focusing on patrons, community, and judgment."*
+
 ### **The Executive Summary**
 Your staff are capable of high-level strategic work, but they are often stuck taking the stairs—spending hours on manual data entry, formatting, and routine collation.
 
@@ -54,5 +57,4 @@ To ensure the training lasts longer than the afternoon, every participant receiv
 ### **Prerequisites**
 *   **Essential:** Completion of **Tier 1** (AI Essentials). This workshop assumes staff already know the CLEAR framework and Anonymization protocols.
 
-### **The Value Proposition**
-> *"We build the machine that handles the drudgery, so your librarians can remain the 'Human in the Loop'—focusing on patrons, community, and judgment."*
+
