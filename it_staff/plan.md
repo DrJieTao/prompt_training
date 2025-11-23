@@ -53,15 +53,14 @@
 
 ### **Part 2: Precise Triage with Structured Prompting (15 mins)**
 
-*   **Facilitator Script:** "Now let's find the most urgent problems using a framework called **R.A.F.T. - Role, Audience, Format, and Topic**. Giving the AI these constraints is the key to getting reliable results. Let's build a prompt together."
+*   **Facilitator Script:** "Now let's find the most urgent problems using a framework called **R.A.F.T. - Role, Audience, Format, and Task**. Giving the AI these constraints is the key to getting reliable results. Let's build a prompt together."
 *   **Prompt 2 (R.A.F.T. Extraction):**
     ```
     Excellent. Now, for your next task:
     - Your **Role** is an IT Service Desk Manager.
     - Your **Audience** is me, the Director of IT, who needs a clear, no-fluff view.
     - I need the output in a clean table **Format**.
-    - Your **Topic** is to extract all tickets that meet ALL criteria: Priority is 'High' OR 'Critical', Status is 'Open', AND Category is 'Network'.
-    ```
+Task    ```
 *   **INTERACTION POINT (2 mins):**
     *   **Facilitator Script:** "We just used the **Format** 'Table'. This is incredibly useful, but it's not our only option. **In the chat, what are two other formats we could have requested for this exact same data?** Think about different uses." (e.g., JSON, a bulleted list, CSV).
 *   **Marketing Weave-in Script:** "This R.A.F.T. technique is something we dive much deeper into during our full-day 'AI for Data Professionals' workshop at the Institute."
