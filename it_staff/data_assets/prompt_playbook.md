@@ -39,7 +39,9 @@ Excellent. Now, for your next task:
 **Prompt 3: Refinement & Calculation**
 *   **Goal:** To enrich the extracted data with a new calculation, making it more insightful.
 ```
-This is perfect. Now, please re-display the entire table of open, high-priority network tickets from your previous response. For each ticket, calculate the number of days it has been open, using [TODAY'S DATE] as today's date. Place this new 'Days_Open' column immediately after the 'Status' column for better visibility.
+This is perfect. Now, please re-display the entire table of open, high-priority network tickets from your previous response. 
+For each ticket, calculate the number of days it has been open, using [TODAY'S DATE] as today's date. 
+Place this new 'Days_Open' column immediately after the 'Status' column for better visibility.
 ```
 
 **Prompt 4: Transformation & Communication**
