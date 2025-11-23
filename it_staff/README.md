@@ -10,7 +10,7 @@ The materials guide a facilitator through a live, interactive "guided follow-alo
 
 *   `IT_support_tickets.csv`: A realistic, sample dataset containing a variety of IT help desk tickets. It is designed with a mix of structured data and unstructured text to effectively showcase AI's analytical capabilities.
 *   `workshop_prompts.txt`: A clean text file for the facilitator containing the exact, ordered prompts to be used during the live demo. This allows for easy copy-pasting and ensures a smooth presentation.
-*   `Prompt_Playbook.md`: A well-formatted, one-page Markdown document intended as the post-workshop handout for participants. It summarizes the key concepts and includes the full prompt workflow from the main demo, plus a bonus example for summarizing project updates.
+*   `Prompt_Playbook.md`: A well-formatted, one-page Markdown document intended as the post-workshop handout for participants. It summarizes the key concepts and includes the full prompt workflow from the main demo, plus a bonus example for summarizing project updates. We also included some **BONUS** prompts for you to try on your own.
 
 ## How to Use
 
