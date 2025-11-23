@@ -85,8 +85,9 @@
     2.  Mention the average number of days these tickets have been open.
     3.  Recommend forming a priority task force to investigate the root cause.
     4.  The tone should be professional, data-driven, and solution-oriented.
-    ```*   **INTERACTION POINT (2 mins):**
-    *   **Facilitator Script:** "This email is for the CIO. But what if the audience was the IT team itself? **In the chat, what is one specific change you would ask the AI to make to the email's tone or content for an internal team audience?**"
+    ```
+*   **INTERACTION POINT (2 mins):**
+*   **Facilitator Script:** "This email is for the CIO. But what if the audience was the IT team itself? **In the chat, what is one specific change you would ask the AI to make to the email's tone or content for an internal team audience?**"
 
 ---
 
