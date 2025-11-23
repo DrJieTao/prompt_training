@@ -57,7 +57,7 @@ The memo should:
 ```
 ---
 
-## Bonus Example 2: Project Update Summary
+## Example 2: Project Update Summary [Bonus]
 
 **Scenario:** You have an export of tasks from a project management tool (`project_tasks.csv`) and need to quickly generate a status update for stakeholders.
 
