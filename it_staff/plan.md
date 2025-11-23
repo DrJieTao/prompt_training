@@ -73,6 +73,10 @@
     ```
     That's the exact data I needed. Now, please add a new column to that table called 'Days_Open' and calculate how many days each ticket has been open based on today's date, which is November 18, 2025.
     ```
+*   **Prompt 3 (Optimized):**
+    ```
+    This is perfect. Now, please re-display the entire table of open, high-priority network tickets from your previous response. For each ticket, calculate the number of days it has been open, using November 18, 2025 as today's date. Place this new 'Days_Open' column immediately after the 'Status' column for better visibility.
+    ```
 *   **Facilitator Script:** "Perfect. Now for the final leap: from analysis to a strategic communication."
 *   **Prompt 4 (Transformation & Communication):**
     ```
