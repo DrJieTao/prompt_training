@@ -39,7 +39,8 @@ Excellent. Now, for your next task:
 **Prompt 3: Refinement & Calculation**
 *   **Goal:** To enrich the extracted data with a new calculation, making it more insightful.
 ```
-This is perfect. Now, please re-display the entire table of open, high-priority network tickets from your previous response. 
+This is perfect. 
+Now, please re-display the entire table of open, high-priority network tickets from your previous response. 
 For each ticket, calculate the number of days it has been open, using [TODAY'S DATE] as today's date. 
 Place this new 'Days_Open' column immediately after the 'Status' column for better visibility.
 ```
@@ -75,5 +76,6 @@ Act as a project manager. Your audience is the project steering committee. Analy
 **Prompt 2: Draft Communication**
 *   **Goal:** To transform the summarized data into a professional stakeholder communication.
 ```
-Based on that summary, draft a concise weekly project status update email to all stakeholders. The tone should be confident and clear. Include the key progress points and explicitly list the critical blockers and who is assigned to them, asking for their immediate attention.
+Based on that summary, draft a concise weekly project status update email to all stakeholders. 
+The tone should be confident and clear. Include the key progress points and explicitly list the critical blockers and who is assigned to them, asking for their immediate attention.
 ```
