@@ -89,6 +89,18 @@
 *   **INTERACTION POINT (2 mins):**
 *   **Facilitator Script:** "This email is for the CIO. But what if the audience was the IT team itself? **In the chat, what is one specific change you would ask the AI to make to the email's tone or content for an internal team audience?**"
 
+### **Part 4: Review and Follow Up (if time allows):**
+* **Self Review** Prompt:
+   ```
+   Act as a senior IT Service Desk Manager, review above draft for the email memo and suggest areas for improvement.
+   ```
+* **Follow Up** Prompt
+   ```
+   Act as the Chief Information Officer, review the draft of the updated email memo and:
+   1. Specify whether you will or will not support this recommendation.
+   2. Help me (as the IT Service Desk Manager) prepare for a follow up meeting.
+   ```
+
 ---
 
 ## III. Wrap-up & Next Steps (Time: 5 Minutes)
