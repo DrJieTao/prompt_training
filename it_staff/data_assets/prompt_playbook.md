@@ -48,7 +48,8 @@ Place this new 'Days_Open' column immediately after the 'Status' column for bett
 **Prompt 4: Transformation & Communication**
 *   **Goal:** To turn the final, analyzed data into a strategic, human-readable communication.
 ```
-This is very insightful, thank you. Use this final table to draft a non-technical email memo to the CIO. The memo should:
+This is very insightful, thank you. Use this final table to draft a non-technical email memo to the CIO. 
+The memo should:
 1.  Summarize that we have a significant number of critical, open network-related tickets.
 2.  Mention the average number of days these tickets have been open.
 3.  Recommend forming a priority task force to investigate the root cause.
