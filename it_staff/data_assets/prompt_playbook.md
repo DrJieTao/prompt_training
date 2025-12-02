@@ -33,7 +33,7 @@ Excellent. Now, for your next task:
 - Your **Role** is an IT Service Desk Manager.
 - Your **Audience** is me, the Director of IT.
 - I need the output in a clean table **Format**.
-- Your **Topic** is to extract all tickets that meet ALL criteria: Priority is 'High' OR 'Critical', Status is 'Open', AND Category is 'Network'.
+- Your **Task** is to extract all tickets that meet ALL criteria: Priority is 'High' OR 'Critical', Status is 'Open', AND Category is 'Network'.
 ```
 
 **Prompt 3: Refinement & Calculation**
