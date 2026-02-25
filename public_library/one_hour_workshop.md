@@ -1,4 +1,4 @@
-# The Library Efficiency Accelerator: A 60-Minute AI Intensive Walk-Along
+# Library Efficiency Accelerator: A 60-Minute AI Intensive Walk-Along
 **Designed For:** All Library Staff (Reference, Operations, Marketing, Admin)  
 **Format:** High-Impact 60-Minute Workshop (45m Live Demos + 15m Strategic Q&A)
 
