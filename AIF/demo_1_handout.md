@@ -47,6 +47,9 @@ Prioritize data from the last 18 months.
 > "The global cold-chain logistics market is valued at $18.6B (Gartner, 2025)... The TAM for AI-powered cold-chain solutions is estimated at $340B by 2027 (McKinsey)."
 
 ---
+[Deep Research Report](https://docs.google.com/document/d/1BaKtF_12Moag6UexjIvsVIbfMrAt1cA4ZAvSOVTtXgY/edit?usp=sharing)
+
+---
 
 ### B. Phase B: The RTCF + Constraints Synthesis Prompt (Live)
 
